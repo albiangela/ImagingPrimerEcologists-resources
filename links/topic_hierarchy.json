@@ -1,0 +1,131 @@
+[
+  {
+    "title": "Introduction",
+    "subsections": [],
+    "keywords": []
+  },
+  {
+    "title": "Ethical Note",
+    "subsections": [],
+    "keywords": [
+      "ethical",
+      "note"
+    ]
+  },
+  {
+    "title": "Creating an Image",
+    "subsections": [
+      {
+        "title": "Light",
+        "subsubsections": []
+      }
+    ],
+    "keywords": [
+      "creating",
+      "image"
+    ]
+  },
+  {
+    "title": "Multi-camera systems and calibration",
+    "subsections": [
+      {
+        "title": "Synchronization",
+        "subsubsections": [
+          "Acquisition"
+        ]
+      },
+      {
+        "title": "Camera Calibration",
+        "subsubsections": []
+      },
+      {
+        "title": "Color Correction",
+        "subsubsections": []
+      }
+    ],
+    "keywords": [
+      "multi-camera",
+      "calibration"
+    ]
+  },
+  {
+    "title": "Data Processing",
+    "subsections": [
+      {
+        "title": "Data Storage",
+        "subsubsections": []
+      },
+      {
+        "title": "Data Structure",
+        "subsubsections": []
+      },
+      {
+        "title": "Automation",
+        "subsubsections": [
+          "Tracking",
+          "Preserving identities",
+          "Photogrammetry"
+        ]
+      }
+    ],
+    "keywords": [
+      "data",
+      "processing"
+    ]
+  },
+  {
+    "title": "Case Studies",
+    "subsections": [
+      {
+        "title": "Standardized Measurements",
+        "subsubsections": [
+          "Measuring Animals from Images",
+          "Perspective Correction for Behavioral Observations from Videos"
+        ]
+      },
+      {
+        "title": "Animal Tracking and Behavioral Quantification",
+        "subsubsections": []
+      },
+      {
+        "title": "2D Object Detection and Animal Tracking",
+        "subsubsections": [
+          "Individual Identification in the Laboratory"
+        ]
+      },
+      {
+        "title": "3D Tracking of Animals in Complex Environments",
+        "subsubsections": [
+          "Underwater Tracking using Handheld Cameras"
+        ]
+      },
+      {
+        "title": "Remote Sensing",
+        "subsubsections": [
+          "The Advent of Aerial Imaging using Drones",
+          "Long-Term Monitoring and Fixed Remote Camera Systems",
+          "Large-Scale Satellite Imagery"
+        ]
+      }
+    ],
+    "keywords": [
+      "case",
+      "studies"
+    ]
+  },
+  {
+    "title": "Outlook",
+    "subsections": [],
+    "keywords": [
+      "outlook"
+    ]
+  },
+  {
+    "title": "Supplemental Material",
+    "subsections": [],
+    "keywords": [
+      "material",
+      "supplemental"
+    ]
+  }
+]
