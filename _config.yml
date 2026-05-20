@@ -1,0 +1,7 @@
+title: Behavioral Video Analysis
+theme: minima
+markdown: kramdown
+permalink: pretty
+header_pages: []
+include:
+  - links
