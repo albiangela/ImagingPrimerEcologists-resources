@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-local files
+.DS_Store
+.claude/
+paper/
+
+# Notebook-generated outputs
+calibration_example.json
+*_corrected.mp4
+*_corrected.mov
+*_corrected.avi
+*_undist.*
+corrected/
+undistorted/
+notebook_outputs/
