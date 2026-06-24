@@ -4,7 +4,31 @@ layout: default
 
 # Synchronization
 
+Synchronizing acquisitions across cameras ensures frames are collected at fixed
+intervals. Trigger signals can be generated through hardware or software, each
+with distinct trade-offs.
+
+## Hardware Trigger
+
+A hardware trigger uses a physical timing device (typically a microcontroller or
+single-board computer) that sends periodic electrical pulses directly to each
+camera's trigger input. Because the signal propagates near-instantaneously across
+wired connections, this enables microsecond-level synchronization, essential for
+high-speed acquisition (see also
+[Workflow Automation](workflow-automation.md) for single-board computers and
+microcontrollers).
+
 ## Software Trigger
+
+A software trigger sends acquisition commands via the camera's communication
+interface (USB, GigE, etc.) using manufacturer APIs or SDKs. It is more flexible
+and easier to implement but inherently less precise (millisecond-level), since
+timing is affected by OS scheduling and network latency. Where triggers are
+unavailable, cameras can also be synchronized post-hoc through sound, using
+frequency decomposition (Fourier transform) of the audio signal to recover the
+temporal offset (Francisco et al. 2020).
+
+## Acquisition software
 
 Overview of camera acquisition software supporting single- and multi-camera setups.
 

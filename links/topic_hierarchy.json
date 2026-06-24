@@ -2,41 +2,61 @@
   {
     "title": "Introduction",
     "subsections": [],
-    "keywords": []
+    "keywords": [
+      "introduction",
+      "imaging",
+      "ecology"
+    ]
   },
   {
     "title": "Ethical Note",
     "subsections": [],
     "keywords": [
-      "ethical",
-      "note"
+      "ethics",
+      "welfare",
+      "3rs",
+      "strange",
+      "fair"
     ]
   },
   {
     "title": "Creating an Image",
     "subsections": [
       {
-        "title": "Light",
+        "title": "Exposure settings",
+        "subsubsections": []
+      },
+      {
+        "title": "Light source",
         "subsubsections": []
       }
     ],
     "keywords": [
-      "creating",
-      "image"
+      "exposure",
+      "aperture",
+      "iso",
+      "shutter",
+      "light",
+      "illumination"
     ]
   },
   {
-    "title": "Multi-camera systems and calibration",
+    "title": "Standardizing an Image",
     "subsections": [
       {
         "title": "Synchronization",
         "subsubsections": [
-          "Acquisition"
+          "Hardware Trigger",
+          "Software Trigger"
         ]
       },
       {
         "title": "Camera Calibration",
-        "subsubsections": []
+        "subsubsections": [
+          "Hardware Solutions",
+          "Software Solutions",
+          "Implementation"
+        ]
       },
       {
         "title": "Color Correction",
@@ -44,88 +64,84 @@
       }
     ],
     "keywords": [
-      "multi-camera",
-      "calibration"
+      "standardization",
+      "synchronization",
+      "calibration",
+      "color correction"
     ]
   },
   {
-    "title": "Data Processing",
+    "title": "Data Handling and Analysis",
     "subsections": [
-      {
-        "title": "Data Storage",
-        "subsubsections": []
-      },
       {
         "title": "Data Structure",
         "subsubsections": []
       },
       {
-        "title": "Automation",
+        "title": "Workflow Automation",
+        "subsubsections": []
+      },
+      {
+        "title": "Tracking",
         "subsubsections": [
-          "Tracking",
-          "Preserving identities",
-          "Photogrammetry"
+          "Preserving Identities"
         ]
+      },
+      {
+        "title": "Photogrammetry",
+        "subsubsections": []
       }
     ],
     "keywords": [
-      "data",
-      "processing"
+      "data structure",
+      "naming",
+      "automation",
+      "containerization",
+      "tracking",
+      "photogrammetry"
     ]
   },
   {
     "title": "Case Studies",
     "subsections": [
       {
-        "title": "Standardized Measurements",
+        "title": "Standardised Measurements",
         "subsubsections": [
           "Measuring Animals from Images",
-          "Perspective Correction for Behavioral Observations from Videos"
+          "Perspective Correction for Behavioural Observations from Videos"
         ]
       },
       {
-        "title": "Animal Tracking and Behavioral Quantification",
-        "subsubsections": []
-      },
-      {
-        "title": "2D Object Detection and Animal Tracking",
+        "title": "Animal Tracking and Behavioural Quantification",
         "subsubsections": [
-          "Individual Identification in the Laboratory"
-        ]
-      },
-      {
-        "title": "3D Tracking of Animals in Complex Environments",
-        "subsubsections": [
+          "Individual Identification in the Laboratory",
           "Underwater Tracking using Handheld Cameras"
         ]
       },
       {
         "title": "Remote Sensing",
         "subsubsections": [
-          "The Advent of Aerial Imaging using Drones",
+          "Aerial Imaging with Drones",
           "Long-Term Monitoring and Fixed Remote Camera Systems",
           "Large-Scale Satellite Imagery"
         ]
       }
     ],
     "keywords": [
-      "case",
-      "studies"
+      "case studies",
+      "measurement",
+      "tracking",
+      "remote sensing",
+      "drones",
+      "satellite"
     ]
   },
   {
     "title": "Outlook",
     "subsections": [],
     "keywords": [
-      "outlook"
-    ]
-  },
-  {
-    "title": "Supplemental Material",
-    "subsections": [],
-    "keywords": [
-      "material",
-      "supplemental"
+      "outlook",
+      "reproducibility"
     ]
   }
 ]

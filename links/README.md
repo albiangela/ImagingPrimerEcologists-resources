@@ -2,28 +2,31 @@
 layout: default
 ---
 
-# An Imaging Primer for Ecologists links
+# An Imaging Primer for Ecologists — links
 
 ![Last updated](https://img.shields.io/github/last-commit/albiangela/SI-bva?label=Last%20updated&style=flat)
 
 Links and resources of "An Imaging Primer for Ecologists" by Francisco et al. (2026).
+Topics follow the manuscript's section structure.
 
-## Topics
+## Creating an Image
+- [Creating an Image (exposure & light)](creating-an-image.md)
 
-### Multi-camera systems and calibration
+## Standardizing an Image
 - [Synchronization](synchronization.md)
 - [Camera Calibration](camera-calibration.md)
 - [Color Correction](color-correction.md)
 
-### Data Processing
+## Data Handling and Analysis
+- [Data Structure & Workflow Automation](workflow-automation.md)
 - [Animal Tracking](tracking.md)
 - [Photogrammetry](photogrammetry.md)
 - [Data Analysis](data-analysis.md)
 
-### Case Studies
-- [Case Studies](case-studies.md)
-- [2D Object Detection and Animal Tracking](detection.md)
-- [Aerial Imaging using Drones](georeferencing-drones.md)
+## Case Studies
+- [Case Studies (overview)](case-studies.md)
+- [Animal Tracking & Behavioural Quantification (2D detection)](detection.md)
+- [Aerial Imaging with Drones](georeferencing-drones.md)
 - [Large-Scale Satellite Imagery](satellite-imagery.md)
 
 ## Contributing
