@@ -14,6 +14,7 @@ links/          curated links — organized by manuscript section
 notebooks/      step-by-step guides and Jupyter notebooks
 assets/         reusable notebook assets such as printable calibration targets
 examples/       small example settings and metadata files for notebooks
+figure/         notebook for recreating Figure 4
 ```
 
 ## Start here

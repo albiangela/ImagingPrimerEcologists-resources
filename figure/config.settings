@@ -1,0 +1,21 @@
+aaveraging_method = mode
+calculate_posture = true
+cm_per_pixel = 0.13129
+detect_size_filter = [[0.17237,1723.70654]]
+detect_threshold = 45
+detect_type = background_subtraction
+meta_encoding = rgb8
+meta_real_width = 4000
+meta_source_path = "/mnt/shiner/Projects/FF_HeterogeneousCollectives_2025/0_RawData/1_ExperimentalRecordings/20251210_124144/basler_record_20251210_124144_000.mp4"
+track_background_subtraction = true
+track_include = [[[3891,181],[3844,2521],[106,2544],[69,159]]]
+track_max_individuals = 24
+track_max_speed = 131.29089
+track_size_filter = [[5,45]]
+video_conversion_range = [400,-1]
+reset_average = true
+cam_undistort = true
+cam_matrix = [[2.96757024e+03, 0.00000000e+00, 1.98991512e+03],[0.00000000e+00, 2.96717287e+03, 1.32202917e+03],[0.00000000e+00, 0.00000000e+00, 1.00000000e+00]]
+cam_undistort_vector = [-1.32104120e-01,5.88208753e-02,4.66561455e-05,-3.89821331e-04,-5.09067249e-02]
+       
+   
