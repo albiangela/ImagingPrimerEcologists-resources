@@ -68,6 +68,31 @@ figure/         notebook for recreating Figure 4
 | §6.2 Animal Tracking & Behavioural Quantification | [`links/tracking.md`](links/tracking.md), [`links/detection.md`](links/detection.md) |
 | §6.3 Remote Sensing (drones, fixed cameras, satellite) | [`links/georeferencing-drones.md`](links/georeferencing-drones.md), [`links/satellite-imagery.md`](links/satellite-imagery.md) |
 
+## Data
+
+The tracking data and background image needed to recreate Figure 4 are in
+[`figure/20251210_124144_000/`](figure/20251210_124144_000/), so
+[`figure/Figure_Calibration_MovementSpeed.ipynb`](figure/Figure_Calibration_MovementSpeed.ipynb)
+runs as-is.
+
+The full dataset associated with the publication (`MEE_data.zip`, 477 MB) is
+attached to the [v1.0.0 release](https://github.com/albiangela/BehavioralVideoAnalysis/releases/tag/v1.0.0)
+because its raw files exceed GitHub's per-file size limit. It contains:
+
+| File | Description |
+| ---- | ----------- |
+| `basler_record_20251210_124144_000.mp4` | raw Basler recording |
+| `20251210_124144_000/basler_record_20251210_124144_000.pv` | TRex pre-processed video |
+| `20251210_124144_000/basler_record_20251210_124144_000.results` | TRex tracking results |
+| `20251210_124144_000/basler_record_20251210_124144_000.settings` | TRex settings for this recording |
+| `20251210_124144_000/data/*_id*.npz` | per-individual trajectories (also in this repo) |
+| `20251210_124144_000/data/*_vi_probs.npz` | visual identification probabilities |
+| `20251210_124144_000/average_*.png` | background image (also in this repo) |
+| `config.settings` | TRex configuration (also in this repo) |
+| `ImageAnalysis_Calibration.ipynb` | figure notebook (same code as `figure/Figure_Calibration_MovementSpeed.ipynb`) |
+
+SHA-256: `2f4e034dd684466bcd91ced76b6d4cffd2a339db823a6a3d9439003f5316e5f8`
+
 ## Contributing
 
 Contributions are welcome through pull requests:

@@ -231,3 +231,10 @@ calibration_example.json
 corrected/
 undistorted/
 notebook_outputs/
+
+# Full publication dataset (distributed as release asset, see README "Data")
+MEE_data.zip
+*.pv
+*.results
+figure/*.mp4
+figure/20251210_124144_000/data/*_vi_probs.npz
