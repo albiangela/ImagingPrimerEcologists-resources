@@ -75,23 +75,19 @@ The tracking data and background image needed to recreate Figure 4 are in
 [`figure/Figure_Calibration_MovementSpeed.ipynb`](figure/Figure_Calibration_MovementSpeed.ipynb)
 runs as-is.
 
-The full dataset associated with the publication (`MEE_data.zip`, 477 MB) is
-attached to the [v1.0.0 release](https://github.com/albiangela/BehavioralVideoAnalysis/releases/tag/v1.0.0)
-because its raw files exceed GitHub's per-file size limit. It contains:
+The dataset associated with the publication is archived on Zenodo:
+[doi:10.5281/zenodo.23674782](https://doi.org/10.5281/zenodo.23674782). It contains:
 
 | File | Description |
 | ---- | ----------- |
 | `basler_record_20251210_124144_000.mp4` | raw Basler recording |
-| `20251210_124144_000/basler_record_20251210_124144_000.pv` | TRex pre-processed video |
-| `20251210_124144_000/basler_record_20251210_124144_000.results` | TRex tracking results |
-| `20251210_124144_000/basler_record_20251210_124144_000.settings` | TRex settings for this recording |
-| `20251210_124144_000/data/*_id*.npz` | per-individual trajectories (also in this repo) |
-| `20251210_124144_000/data/*_vi_probs.npz` | visual identification probabilities |
-| `20251210_124144_000/average_*.png` | background image (also in this repo) |
+| `basler_record_20251210_124144_000.pv` | TRex pre-processed video |
+| `basler_record_20251210_124144_000.settings` | TRex settings for this recording |
+| `basler_record_20251210_124144_000_id10.npz` | trajectory of the individual shown in Figure 4 |
+| `average_basler_record_20251210_124144_000.png` | background image (also in this repo) |
 | `config.settings` | TRex configuration (also in this repo) |
-| `ImageAnalysis_Calibration.ipynb` | figure notebook (same code as `figure/Figure_Calibration_MovementSpeed.ipynb`) |
-
-SHA-256: `2f4e034dd684466bcd91ced76b6d4cffd2a339db823a6a3d9439003f5316e5f8`
+| `ImageAnalysis_Calibration.ipynb` | figure notebook, adapted to the flat file layout of the Zenodo record |
+| `trajectory_comparison_600dpi.pdf` | Figure 4 at 600 dpi |
 
 ## Contributing
 

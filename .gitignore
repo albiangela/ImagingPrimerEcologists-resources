@@ -232,7 +232,7 @@ corrected/
 undistorted/
 notebook_outputs/
 
-# Full publication dataset (distributed as release asset, see README "Data")
+# Full publication dataset (archived on Zenodo, see README "Data")
 MEE_data.zip
 *.pv
 *.results
