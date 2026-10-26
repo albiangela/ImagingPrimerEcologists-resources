@@ -1,7 +1,7 @@
 # BehavioralVideoAnalysis
 
 This repository is a **tutorial / read-more companion** for the paper
-*An Imaging Primer for Ecologists* (XXXXXXXXXXXXXXXXXXXXX, 2026).
+*An Imaging Primer for Ecologists* (Francisco et al., 2026).
 
 It collects curated links and step-by-step Jupyter notebooks for ecologists
 working with images and video. The link collection is organized to follow the
