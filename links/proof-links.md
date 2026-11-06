@@ -1,0 +1,196 @@
+---
+layout: default
+---
+
+# Final proof link index
+
+Companion index of external URLs embedded in the final manuscript (58 PDF pages) and Supporting Information (14 PDF pages). Page numbers refer to the supplied PDF pages. This is a reference inventory, not a guarantee of current link availability. Topic pages provide descriptions and practical entry points.
+
+Exact duplicates within each document are combined. Different pages on the same website are retained. The stray encoded ` External` suffix on the Klibaite DOI hyperlink has been removed. The printed GoPro Labs URL is included even though it has no hyperlink annotation.
+
+The `movement` community URL in Table S3 no longer resolves; use the [current documentation homepage](https://movement.neuroinformatics.dev/). The original proof URL is retained below for provenance.
+
+## Main manuscript
+
+- [github.com/FlorentLM/mokap](https://github.com/FlorentLM/mokap) — PDF page(s) 10.
+- [github.com/ksseverson57/campy](https://github.com/ksseverson57/campy) — PDF page(s) 10.
+- [github.com/basler/pypylon](https://github.com/basler/pypylon) — PDF page(s) 10.
+- [doi.org/10.5281/zenodo.3866331](https://doi.org/10.5281/zenodo.3866331) — PDF page(s) 10, 43.
+- [github.com/oliver-batchelor/multical](https://github.com/oliver-batchelor/multical) — PDF page(s) 13.
+- [anipose.readthedocs.io/en/latest/tutorial.html](https://anipose.readthedocs.io/en/latest/tutorial.html) — PDF page(s) 13.
+- [github.com/ethz-asl/kalibr](https://github.com/ethz-asl/kalibr) — PDF page(s) 13.
+- [mrcal.secretsauce.net/](https://mrcal.secretsauce.net/) — PDF page(s) 13.
+- [github.com/JunkyByte/deepcharuco?tab=readme-ov-file](https://github.com/JunkyByte/deepcharuco?tab=readme-ov-file) — PDF page(s) 13.
+- [github.com/hainh/sea-thru](https://github.com/hainh/sea-thru) — PDF page(s) 16.
+- [www.empiricalimaging.com/about/](https://www.empiricalimaging.com/about/) — PDF page(s) 16.
+- [www.adobe.com/products/photoshop.html](https://www.adobe.com/products/photoshop.html) — PDF page(s) 28.
+- [space-solutions.airbus.com/imagery/our-optical-and-radar-satellite-imagery/pleiades-neo/](https://space-solutions.airbus.com/imagery/our-optical-and-radar-satellite-imagery/pleiades-neo/) — PDF page(s) 28.
+- [doi.org/10.1109/CVPR.2019.00178](https://doi.org/10.1109/CVPR.2019.00178) — PDF page(s) 29.
+- [github.com/alicevision/meshroom](https://github.com/alicevision/meshroom) — PDF page(s) 29.
+- [doi.org/10.1016/j.neuron.2014.09.005](https://doi.org/10.1016/j.neuron.2014.09.005) — PDF page(s) 29.
+- [doi.org/10.1093/biosci/biaf069](https://doi.org/10.1093/biosci/biaf069) — PDF page(s) 29.
+- [doi.org/10.3390/ani15223329](https://doi.org/10.3390/ani15223329) — PDF page(s) 29.
+- [doi.org/10.21105/joss.01012](https://doi.org/10.21105/joss.01012) — PDF page(s) 29.
+- [doi.org/10.1109/HUMANOIDS.2017.8246913](https://doi.org/10.1109/HUMANOIDS.2017.8246913) — PDF page(s) 29.
+- [doi.org/10.1002/ece3.72890](https://doi.org/10.1002/ece3.72890) — PDF page(s) 30.
+- [www.blender.org](https://www.blender.org) — PDF page(s) 30.
+- [doi.org/10.1038/s41567-018-0093-0](https://doi.org/10.1038/s41567-018-0093-0) — PDF page(s) 30.
+- [doi.org/10.1364/OE.27.019075](https://doi.org/10.1364/OE.27.019075) — PDF page(s) 30.
+- [doi.org/10.7717/peerj.1077](https://doi.org/10.7717/peerj.1077) — PDF page(s) 30.
+- [doi.org/10.1016/j.yhbeh.2009.02.010](https://doi.org/10.1016/j.yhbeh.2009.02.010) — PDF page(s) 30.
+- [doi.org/10.1111/2041-210X.14115](https://doi.org/10.1111/2041-210X.14115) — PDF page(s) 30.
+- [doi.org/10.1111/2041-210x.70051](https://doi.org/10.1111/2041-210x.70051) — PDF page(s) 31.
+- [doi.org/10.1016/0042-6989(94)90151-1](https://doi.org/10.1016/0042-6989(94)90151-1) — PDF page(s) 31.
+- [assets.britishecologicalsociety.org/2026/09/21103535/BES-Data-management-guide-2026.pdf](https://assets.britishecologicalsociety.org/2026/09/21103535/BES-Data-management-guide-2026.pdf) — PDF page(s) 31.
+- [doi.org/10.5281/zenodo.16421733](https://doi.org/10.5281/zenodo.16421733) — PDF page(s) 31.
+- [doi.org/10.5281/zenodo.15773102](https://doi.org/10.5281/zenodo.15773102) — PDF page(s) 31.
+- [doi.org/10.1016/j.tree.2022.11.008](https://doi.org/10.1016/j.tree.2022.11.008) — PDF page(s) 31.
+- [doi.org/10.1371/journal.pone.0136487](https://doi.org/10.1371/journal.pone.0136487) — PDF page(s) 31.
+- [www.darktable.org](https://www.darktable.org) — PDF page(s) 31.
+- [doi.org/10.3758/s13428-011-0060-5](https://doi.org/10.3758/s13428-011-0060-5) — PDF page(s) 31.
+- [doi.org/10.1016/j.tree.2014.05.004](https://doi.org/10.1016/j.tree.2014.05.004) — PDF page(s) 32.
+- [doi.org/10.1016/j.rse.2011.11.026](https://doi.org/10.1016/j.rse.2011.11.026) — PDF page(s) 32.
+- [doi.org/10.1002/rse2.195](https://doi.org/10.1002/rse2.195) — PDF page(s) 32.
+- [doi.org/10.1111/2041-210X.70140](https://doi.org/10.1111/2041-210X.70140) — PDF page(s) 32.
+- [doi.org/10.1098/rspb.2022.2115](https://doi.org/10.1098/rspb.2022.2115) — PDF page(s) 32.
+- [doi.org/10.3390/rs12132093](https://doi.org/10.3390/rs12132093) — PDF page(s) 32.
+- [doi.org/10.1073/pnas.1708272114](https://doi.org/10.1073/pnas.1708272114) — PDF page(s) 33.
+- [arxiv.org/abs/2112.03325](https://arxiv.org/abs/2112.03325) — PDF page(s) 33.
+- [doi.org/10.1016/j.tree.2021.07.004](https://doi.org/10.1016/j.tree.2021.07.004) — PDF page(s) 33.
+- [ffmpeg.org](https://ffmpeg.org) — PDF page(s) 33.
+- [doi.org/10.5281/zenodo.23674782](https://doi.org/10.5281/zenodo.23674782) — PDF page(s) 33.
+- [doi.org/10.1186/s40462-020-00214-w](https://doi.org/10.1186/s40462-020-00214-w) — PDF page(s) 33.
+- [doi.org/10.1371/journal.pcbi.1008697](https://doi.org/10.1371/journal.pcbi.1008697) — PDF page(s) 33.
+- [doi.org/10.1016/j.optlastec.2024.111011](https://doi.org/10.1016/j.optlastec.2024.111011) — PDF page(s) 33.
+- [doi.org/10.1371/journal.pbio.2003026](https://doi.org/10.1371/journal.pbio.2003026) — PDF page(s) 34.
+- [doi.org/10.1038/s41567-022-01916-1](https://doi.org/10.1038/s41567-022-01916-1) — PDF page(s) 34.
+- [doi.org/10.1016/j.rse.2017.06.031](https://doi.org/10.1016/j.rse.2017.06.031) — PDF page(s) 34.
+- [doi.org/10.48550/arXiv.2309.12685](https://doi.org/10.48550/arXiv.2309.12685) — PDF page(s) 34.
+- [www.wearegrovestrong.com/blog-post/photo-basics-understanding-the-exposure-triangle](https://www.wearegrovestrong.com/blog-post/photo-basics-understanding-the-exposure-triangle) — PDF page(s) 34.
+- [doi.org/10.1080/00018738800101399](https://doi.org/10.1080/00018738800101399) — PDF page(s) 34.
+- [doi.org/10.3390/rs8020118](https://doi.org/10.3390/rs8020118) — PDF page(s) 34.
+- [doi.org/10.1098/rsos.251530](https://doi.org/10.1098/rsos.251530) — PDF page(s) 35.
+- [doi.org/10.1109/CVPR.2019.00863](https://doi.org/10.1109/CVPR.2019.00863) — PDF page(s) 35.
+- [doi.org/10.30897/ijegeo.948676](https://doi.org/10.30897/ijegeo.948676) — PDF page(s) 35.
+- [doi.org/10.1186/s12983-023-00488-x](https://doi.org/10.1186/s12983-023-00488-x) — PDF page(s) 35.
+- [doi.org/10.1242/jeb.124008](https://doi.org/10.1242/jeb.124008) — PDF page(s) 35.
+- [doi.org/10.1111/2041-210X.13652](https://doi.org/10.1111/2041-210X.13652) — PDF page(s) 35.
+- [doi.org/10.1111/2041-210x.70259](https://doi.org/10.1111/2041-210x.70259) — PDF page(s) 35.
+- [doi.org/10.3390/fishes9020050](https://doi.org/10.3390/fishes9020050) — PDF page(s) 35.
+- [doi.org/10.1002/col.22291](https://doi.org/10.1002/col.22291) — PDF page(s) 36.
+- [doi.org/10.1007/s10846-020-01307-9](https://doi.org/10.1007/s10846-020-01307-9) — PDF page(s) 36.
+- [doi.org/10.1016/j.celrep.2021.109730](https://doi.org/10.1016/j.celrep.2021.109730) — PDF page(s) 36.
+- [doi.org/10.5194/isprs-archives-XLII-3-W3-101-2017](https://doi.org/10.5194/isprs-archives-XLII-3-W3-101-2017) — PDF page(s) 36.
+- [doi.org/10.1016/j.conb.2022.102549](https://doi.org/10.1016/j.conb.2022.102549) — PDF page(s) 36.
+- [doi.org/10.1016/j.cell.2025.01.044](https://doi.org/10.1016/j.cell.2025.01.044) — PDF page(s) 36.
+- [doi.org/10.1111/2041-210X.70128](https://doi.org/10.1111/2041-210X.70128) — PDF page(s) 36.
+- [doi.org/10.1111/2041-210x.70018](https://doi.org/10.1111/2041-210x.70018) — PDF page(s) 36.
+- [doi.org/10.1111/1365-2656.13904](https://doi.org/10.1111/1365-2656.13904) — PDF page(s) 37.
+- [doi.org/10.1177/03091333261425145](https://doi.org/10.1177/03091333261425145) — PDF page(s) 37.
+- [arxiv.org/abs/2303.10559](https://arxiv.org/abs/2303.10559) — PDF page(s) 37.
+- [doi.org/10.7554/eLife.79305](https://doi.org/10.7554/eLife.79305) — PDF page(s) 37.
+- [doi.org/10.1016/j.neuron.2020.09.017](https://doi.org/10.1016/j.neuron.2020.09.017) — PDF page(s) 37.
+- [doi.org/10.1093/icesjms/fsac098](https://doi.org/10.1093/icesjms/fsac098) — PDF page(s) 37.
+- [doi.org/10.1111/eth.13334](https://doi.org/10.1111/eth.13334) — PDF page(s) 38.
+- [pypi.org/project/audalign/](https://pypi.org/project/audalign/) — PDF page(s) 38.
+- [doi.org/10.64898/2026.03.12.711471](https://doi.org/10.64898/2026.03.12.711471) — PDF page(s) 38.
+- [doi.org/10.1111/een.12907](https://doi.org/10.1111/een.12907) — PDF page(s) 38.
+- [doi.org/10.52202/079017-2606](https://doi.org/10.52202/079017-2606) — PDF page(s) 38.
+- [doi.org/10.1038/s41684-021-00811-1](https://doi.org/10.1038/s41684-021-00811-1) — PDF page(s) 38.
+- [doi.org/10.1016/j.ohx.2020.e00139](https://doi.org/10.1016/j.ohx.2020.e00139) — PDF page(s) 39.
+- [doi.org/10.1038/s41593-020-00734-z](https://doi.org/10.1038/s41593-020-00734-z) — PDF page(s) 39.
+- [doi.org/10.1111/2041-210X.14061](https://doi.org/10.1111/2041-210X.14061) — PDF page(s) 39.
+- [doi.org/10.1016/C2010-0-68987-5](https://doi.org/10.1016/C2010-0-68987-5) — PDF page(s) 39.
+- [doi.org/10.1049/iet-ipr.2019.0117](https://doi.org/10.1049/iet-ipr.2019.0117) — PDF page(s) 39.
+- [doi.org/10.1007/s42991-022-00228-4](https://doi.org/10.1007/s42991-022-00228-4) — PDF page(s) 39.
+- [doi.org/10.1109/ICRA.2016.7487628](https://doi.org/10.1109/ICRA.2016.7487628) — PDF page(s) 39.
+- [doi.org/10.1098/rstb.2022.0073](https://doi.org/10.1098/rstb.2022.0073) — PDF page(s) 40.
+- [doi.org/10.1038/s41559-024-02525-2](https://doi.org/10.1038/s41559-024-02525-2) — PDF page(s) 40.
+- [doi.org/10.1111/2041-210X.14307](https://doi.org/10.1111/2041-210X.14307) — PDF page(s) 40.
+- [doi.org/10.5281/zenodo.17865822](https://doi.org/10.5281/zenodo.17865822) — PDF page(s) 40.
+- [doi.org/10.1038/nmeth.2019](https://doi.org/10.1038/nmeth.2019) — PDF page(s) 40.
+- [doi.org/10.1038/nmeth.2089](https://doi.org/10.1038/nmeth.2089) — PDF page(s) 40.
+- [doi.org/10.1109/CVPR.2016.445](https://doi.org/10.1109/CVPR.2016.445) — PDF page(s) 40.
+- [doi.org/10.1111/2041-210x.70310](https://doi.org/10.1111/2041-210x.70310) — PDF page(s) 41.
+- [doi.org/10.3389/fcosc.2022.954791](https://doi.org/10.3389/fcosc.2022.954791) — PDF page(s) 41.
+- [doi.org/10.1016/j.applanim.2023.106000](https://doi.org/10.1016/j.applanim.2023.106000) — PDF page(s) 41.
+- [doi.org/10.1111/2041-210X.13166](https://doi.org/10.1111/2041-210X.13166) — PDF page(s) 41.
+- [doi.org/10.1002/ece3.8550](https://doi.org/10.1002/ece3.8550) — PDF page(s) 41.
+- [www.tamron.com/global/consumer/sp/impression/detail/article-what-is-depth-of-field.html](https://www.tamron.com/global/consumer/sp/impression/detail/article-what-is-depth-of-field.html) — PDF page(s) 41.
+- [doi.org/10.1109/ICCV48922.2021.00496](https://doi.org/10.1109/ICCV48922.2021.00496) — PDF page(s) 42.
+- [www.gimp.org/](https://www.gimp.org/) — PDF page(s) 42.
+- [doi.org/10.3390/s22176490](https://doi.org/10.3390/s22176490) — PDF page(s) 42.
+- [doi.org/10.7554/eLife.107602](https://doi.org/10.7554/eLife.107602) — PDF page(s) 42.
+- [doi.org/10.1016/j.rse.2011.05.028](https://doi.org/10.1016/j.rse.2011.05.028) — PDF page(s) 42.
+- [doi.org/10.1111/2041-210X.12439](https://doi.org/10.1111/2041-210X.12439) — PDF page(s) 42.
+- [doi.org/10.1111/2041-210x.70243](https://doi.org/10.1111/2041-210x.70243) — PDF page(s) 42.
+- [doi.org/10.1038/s41467-022-27980-y](https://doi.org/10.1038/s41467-022-27980-y) — PDF page(s) 43.
+- [doi.org/10.1016/j.anbehav.2014.02.007](https://doi.org/10.1016/j.anbehav.2014.02.007) — PDF page(s) 43.
+- [doi.org/10.48550/arXiv.2505.21720](https://doi.org/10.48550/arXiv.2505.21720) — PDF page(s) 43.
+- [doi.org/10.5194/isprs-annals-III-3-139-2016](https://doi.org/10.5194/isprs-annals-III-3-139-2016) — PDF page(s) 43.
+- [urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-119408](https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-119408) — PDF page(s) 43.
+- [doi.org/10.7554/eLife.64000](https://doi.org/10.7554/eLife.64000) — PDF page(s) 43.
+- [doi.org/10.1038/d41586-020-01751-5](https://doi.org/10.1038/d41586-020-01751-5) — PDF page(s) 44.
+- [doi.org/10.1111/1365-2656.12780](https://doi.org/10.1111/1365-2656.12780) — PDF page(s) 44.
+- [doi.org/10.1038/s41467-021-21212-5](https://doi.org/10.1038/s41467-021-21212-5) — PDF page(s) 44.
+- [doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18) — PDF page(s) 44.
+- [doi.org/10.34133/2021/9753625](https://doi.org/10.34133/2021/9753625) — PDF page(s) 44.
+- [doi.org/10.1007/978-3-030-63416-2](https://doi.org/10.1007/978-3-030-63416-2) — PDF page(s) 44.
+- [doi.org/10.1038/s41386-020-0751-7](https://doi.org/10.1038/s41386-020-0751-7) — PDF page(s) 45.
+
+## Supporting Information
+
+- [gopro.github.io/labs/](https://gopro.github.io/labs/) — PDF page(s) 2.
+- [www.docker.com/](https://www.docker.com/) — PDF page(s) 7.
+- [anaconda.org/](https://anaconda.org/) — PDF page(s) 7.
+- [github.com/astral-sh/uv](https://github.com/astral-sh/uv) — PDF page(s) 7.
+- [trex.run/](https://trex.run/) — PDF page(s) 8.
+- [idtracker.ai/latest/](https://idtracker.ai/latest/) — PDF page(s) 8.
+- [sleap.ai/](https://sleap.ai/) — PDF page(s) 8.
+- [github.com/DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) — PDF page(s) 8.
+- [lightning-pose.readthedocs.io/en/latest/index.html](https://lightning-pose.readthedocs.io/en/latest/index.html) — PDF page(s) 8.
+- [www.fasttrack.sh/](https://www.fasttrack.sh/) — PDF page(s) 8.
+- [vchiara.eu/index.php/animalta](http://vchiara.eu/index.php/animalta) — PDF page(s) 8.
+- [github.com/vivekhsridhar/tracktor](https://github.com/vivekhsridhar/tracktor) — PDF page(s) 8.
+- [movement.neuroinformatics.dev/community/index.html](https://movement.neuroinformatics.dev/community/index.html) — PDF page(s) 8.
+- [marinapapa.github.io/swaRmverse/](https://marinapapa.github.io/swaRmverse/) — PDF page(s) 8.
+- [cran.r-project.org/package=move](https://cran.r-project.org/package=move) — PDF page(s) 8.
+- [cran.r-project.org/package=moveHMM](https://cran.r-project.org/package=moveHMM) — PDF page(s) 8.
+- [cran.r-project.org/package=momentuHMM](https://cran.r-project.org/package=momentuHMM) — PDF page(s) 8.
+- [github.com/alicevision/Meshroom](https://github.com/alicevision/Meshroom) — PDF page(s) 9.
+- [colmap.github.io/](https://colmap.github.io/) — PDF page(s) 9.
+- [github.com/OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) — PDF page(s) 9, 13.
+- [www.agisoft.com/](https://www.agisoft.com/) — PDF page(s) 9, 11.
+- [www.pix4d.com/](https://www.pix4d.com/) — PDF page(s) 9, 13.
+- [enterprise.dji.com/dji-terra](https://enterprise.dji.com/dji-terra) — PDF page(s) 9, 11.
+- [doi.org/10.1038/s41592-024-02319-1](https://doi.org/10.1038/s41592-024-02319-1) — PDF page(s) 11.
+- [doi.org/10.1016/j.ecolind.2021.107957](https://doi.org/10.1016/j.ecolind.2021.107957) — PDF page(s) 11.
+- [doi.org/10.1111/2041-210X.14115](https://doi.org/10.1111/2041-210X.14115) — PDF page(s) 11.
+- [doi.org/10.1007/s11760-025-04579-6](https://doi.org/10.1007/s11760-025-04579-6) — PDF page(s) 11.
+- [doi.org/10.1098/rspb.2009.0508](https://doi.org/10.1098/rspb.2009.0508) — PDF page(s) 11.
+- [doi.org/10.1371/journal.pcbi.1008697](https://doi.org/10.1371/journal.pcbi.1008697) — PDF page(s) 11.
+- [doi.org/10.1371/journal.pbio.2003026](https://doi.org/10.1371/journal.pbio.2003026) — PDF page(s) 11.
+- [doi.org/10.1111/2041-210X.13652](https://doi.org/10.1111/2041-210X.13652) — PDF page(s) 12.
+- [doi.org/10.1111/1365-2656.13116](https://doi.org/10.1111/1365-2656.13116) — PDF page(s) 12.
+- [doi.org/10.5194/isprs-archives-XLII-3-W3-101-2017](https://doi.org/10.5194/isprs-archives-XLII-3-W3-101-2017) — PDF page(s) 12.
+- [doi.org/10.1371/journal.pone.0177459](https://doi.org/10.1371/journal.pone.0177459) — PDF page(s) 12.
+- [doi.org/10.1038/s41592-022-01443-0](https://doi.org/10.1038/s41592-022-01443-0) — PDF page(s) 12.
+- [doi.org/10.1111/2041-210X.12995](https://doi.org/10.1111/2041-210X.12995) — PDF page(s) 12.
+- [doi.org/10.1111/2041-210X.12578](https://doi.org/10.1111/2041-210X.12578) — PDF page(s) 12.
+- [doi.org/10.64898/2026.03.12.711471](https://doi.org/10.64898/2026.03.12.711471) — PDF page(s) 12.
+- [doi.org/10.1038/s41596-019-0176-0](https://doi.org/10.1038/s41596-019-0176-0) — PDF page(s) 12, 13.
+- [doi.org/10.1007/978-1-4842-2496-0](https://doi.org/10.1007/978-1-4842-2496-0) — PDF page(s) 13.
+- [doi.org/10.1038/s41684-021-00811-1](https://doi.org/10.1038/s41684-021-00811-1) — PDF page(s) 13.
+- [doi.org/10.1111/2041-210X.14460](https://doi.org/10.1111/2041-210X.14460) — PDF page(s) 13.
+- [doi.org/10.1016/j.ohx.2020.e00139](https://doi.org/10.1016/j.ohx.2020.e00139) — PDF page(s) 13.
+- [doi.org/10.1038/s41592-022-01426-1](https://doi.org/10.1038/s41592-022-01426-1) — PDF page(s) 13.
+- [doi.org/10.1109/TDSC.2021.3131571](https://doi.org/10.1109/TDSC.2021.3131571) — PDF page(s) 13.
+- [doi.org/10.1109/CVPR.2016.445](https://doi.org/10.1109/CVPR.2016.445) — PDF page(s) 13.
+- [doi.org/10.1007/978-3-319-46487-9_31](https://doi.org/10.1007/978-3-319-46487-9_31) — PDF page(s) 13.
+- [doi.org/10.5281/zenodo.16754905](https://doi.org/10.5281/zenodo.16754905) — PDF page(s) 14.
+- [doi.org/10.1111/2041-210X.13166](https://doi.org/10.1111/2041-210X.13166) — PDF page(s) 14.
+- [doi.org/10.1155/2014/979081](https://doi.org/10.1155/2014/979081) — PDF page(s) 14.
+- [doi.org/10.7554/eLife.107602](https://doi.org/10.7554/eLife.107602) — PDF page(s) 14.
+- [doi.org/10.1126/science.289.5487.2114](https://doi.org/10.1126/science.289.5487.2114) — PDF page(s) 14.
+- [doi.org/10.7554/eLife.64000](https://doi.org/10.7554/eLife.64000) — PDF page(s) 14.
+- [doi.org/10.1155/2020/6585729](https://doi.org/10.1155/2020/6585729) — PDF page(s) 14.

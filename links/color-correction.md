@@ -12,8 +12,8 @@ multi-color palettes such as the X-Rite or Calibrite ColorChecker) to balance
 and standardize color levels across images.
 
 For a runnable walkthrough, see the companion notebook
-[`01_color_calibration.ipynb`](../notebooks/01_color_calibration.ipynb). A
-printable color reference target is available in
+[`01_color_calibration.ipynb`](../notebooks/01_color_calibration.ipynb). An
+illustrative color reference target is available in
 [`../assets/calibration_targets`](../assets/calibration_targets).
 
 ## Encoding profiles
@@ -44,7 +44,7 @@ Tools developed for specific contexts.
 |----------|---------|-----------|
 | [Sea-Thru](https://github.com/hainh/sea-thru) | Underwater photography (water removal) | Akkaynak & Treibitz 2019 |
 | [micaToolbox](https://www.empiricalimaging.com/) | Multispectral and calibrated color analysis | Troscianko & Stevens 2015 |
-| charisma | Color calibration for ecological applications | Schwartz et al. 2026 |
+| [charisma](https://doi.org/10.1111/2041-210x.70310) | Color calibration for ecological applications | Schwartz et al. 2026 |
 
 ## Notes for contributors
 

@@ -14,6 +14,9 @@ The sections below mirror the structure of the manuscript.
 
 Resources organized by the manuscript's sections.
 
+### Ethics of Imaging
+- [Ethics of Imaging](links/ethics)
+
 ### Creating an Image
 - [Creating an Image (exposure & light)](links/creating-an-image)
 
@@ -23,7 +26,7 @@ Resources organized by the manuscript's sections.
 - [Color Correction](links/color-correction)
 
 ### Data Handling and Analysis
-- [Data Structure & Workflow Automation](links/workflow-automation)
+- [Data Management & Workflow Automation](links/workflow-automation)
 - [Animal Tracking](links/tracking)
 - [Photogrammetry](links/photogrammetry)
 - [Data Analysis](links/data-analysis)
@@ -36,6 +39,8 @@ Resources organized by the manuscript's sections.
 
 <!-- --- -->
 
+[Complete link index from the final proofs](links/proof-links).
+
 ## Notebooks
 
 Step-by-step worked examples.
@@ -44,6 +49,3 @@ Step-by-step worked examples.
 - [Lens correction](notebooks/02_lens_correction.ipynb)
 - [Perspective rectification and scale](notebooks/03_perspective_rectification_and_scale.ipynb)
 - [Acquisition metadata checklist](notebooks/04_acquisition_metadata_checklist.ipynb)
-
-<!--
-- [Extract Topics and Links](https://github.com/albiangela/SI-bva/blob/main/extract_topics_and_links.ipynb) -->

@@ -8,6 +8,9 @@ title: Behavioral Video Analysis links
 Links and resources from "An Imaging Primer for Ecologists" by Francisco et al. (2026).
 Topics are organized to follow the manuscript's section structure.
 
+## Ethics of Imaging
+- [Ethics of Imaging](ethics.md)
+
 ## Creating an Image
 - [Creating an Image (exposure & light)](creating-an-image.md)
 
@@ -17,7 +20,7 @@ Topics are organized to follow the manuscript's section structure.
 - [Color Correction](color-correction.md)
 
 ## Data Handling and Analysis
-- [Data Structure & Workflow Automation](workflow-automation.md)
+- [Data Management & Workflow Automation](workflow-automation.md)
 - [Animal Tracking](tracking.md)
 - [Photogrammetry](photogrammetry.md)
 - [Data Analysis](data-analysis.md)
@@ -27,6 +30,10 @@ Topics are organized to follow the manuscript's section structure.
 - [Animal Tracking & Behavioural Quantification (2D detection)](detection.md)
 - [Aerial Imaging with Drones](georeferencing-drones.md)
 - [Large-Scale Satellite Imagery](satellite-imagery.md)
+
+## Proof references
+
+[Complete link index from the final proofs](proof-links.md).
 
 ## Contributing
 

@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Data Structure and Workflow Automation
+# Data Management and Workflow Automation
 
 Resources on data management, file naming, and reproducible, automated
-processing pipelines. These correspond to Sections 5.1 (Data Structure) and 5.2
+processing pipelines. These correspond to Sections 5.1 (Data Management) and 5.2
 (Workflow Automation) of *An Imaging Primer for Ecologists*.
 
-## Data Structure
+## Data Management
 
 Establishing consistent data structures, file naming conventions, and metadata
 standards as early as possible is critical. Common naming conventions include
@@ -21,7 +21,7 @@ and simplifies parsing.
 
 - Wilkinson et al. (2016) — The FAIR guiding principles for scientific data management and stewardship. *Scientific Data*. [doi:10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
 - Cooper & Hsing (2025) — *Guide to Reproducible Code*. British Ecological Society. [doi:10.5281/zenodo.16421733](https://doi.org/10.5281/zenodo.16421733)
-- Jones et al. (2026) — Guidance on field data collection.
+- [Jones et al. (2026)](https://doi.org/10.1111/2041-210x.70259) — A short guide for effective field data collection.
 
 ## Workflow Automation
 
@@ -61,6 +61,11 @@ spatial tracking.
 |----------|-------------|-----------|
 | [BEEtag](https://github.com/jamescrall/BEEtag) | Low-cost, image-based fiducial tracking | Crall et al. 2015 |
 | [ArUco / ChArUco (OpenCV)](https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html) | Marker detection for pose and rectification | Bradski 2000 |
+
+## Additional resources from the final proof
+
+- [Cooper & Barber (2026), BES Data Management guide](https://assets.britishecologicalsociety.org/2026/09/21103535/BES-Data-management-guide-2026.pdf).
+- [TracktorLive](https://doi.org/10.64898/2026.03.12.711471) — real-time tracking and response systems.
 
 ## Notes for contributors
 

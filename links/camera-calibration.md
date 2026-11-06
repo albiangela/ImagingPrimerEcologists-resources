@@ -44,6 +44,10 @@ support for rigs with three or more cameras.
 | [mrcal](https://mrcal.secretsauce.net/) | Chessboard calibration | Partial | High-accuracy applications requiring uncertainty quantification or non-standard lenses | https://mrcal.secretsauce.net |
 | [Deep ChArUco](https://github.com/JunkyByte/deepcharuco) | ChArUco detection for underwater images | No | Underwater or low-contrast environments where standard chessboards fail | Hu et al. 2019 |
 
+## Measurement and scale
+
+The manuscript (§4.2) names [Fiji](https://imagej.net/software/fiji/), [ImageJ](https://imagej.net/ij/), and [GIMP](https://www.gimp.org/) for measurements against a known reference after geometric correction. See [Schindelin et al. 2012](https://doi.org/10.1038/nmeth.2019) and [Schneider et al. 2012](https://doi.org/10.1038/nmeth.2089).
+
 ## Notes for contributors
 
 Keep additions concise, clearly labeled, and beginner-friendly.

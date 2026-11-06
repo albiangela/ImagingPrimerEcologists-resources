@@ -19,6 +19,10 @@ For 3D reconstruction and georeferencing tools, see also
 
 - [BAMBI - Detection Dataset](https://doi.org/10.5281/zenodo.15773102) — Coucke et al., 2025
 
+## Thermal-drone replication data
+
+- [Schedl et al. (2025), Stay local or go global](https://doi.org/10.5281/zenodo.17865822) — geo-referenced bounding boxes for tracking wildlife in thermal drone videos.
+
 ## Notes for contributors
 
 Keep additions concise, clearly labeled, and beginner-friendly.

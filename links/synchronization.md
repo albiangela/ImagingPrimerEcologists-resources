@@ -39,6 +39,10 @@ Overview of camera acquisition software supporting single- and multi-camera setu
 | [pypylon](https://github.com/basler/pypylon) | Official Python wrapper of the Basler API pylon | https://github.com/basler/pypylon |
 | [flirpy](https://doi.org/10.5281/zenodo.3866331) | Python library to interact with FLIR cameras | https://doi.org/10.5281/zenodo.3866331 |
 
+## Post-processing audio alignment
+
+The final manuscript (§4.1.2) also names [audalign](https://pypi.org/project/audalign/) and [Blender](https://www.blender.org/) for post-hoc alignment. Record a distinctive shared audio event and verify the resulting frame offsets; audio alignment does not replace precise hardware triggering when sub-frame timing is required.
+
 ## Notes for contributors
 
 Keep additions concise, clearly labeled, and beginner-friendly.

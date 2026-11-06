@@ -20,10 +20,6 @@ Overview of commonly used object detection and segmentation models, including CN
 | [Detectron2](https://github.com/facebookresearch/detectron2) | Detection / Segmentation | CNN (ResNet/FPN) | Modular framework supporting Faster R-CNN, Mask R-CNN, and more |
 | [MMDetection](https://github.com/open-mmlab/mmdetection) | Detection / Segmentation | CNN + Transformer | Large model zoo covering classical and modern architectures |
 
-## Code and software
-
-- Add GitHub repositories, packages, or tools here.
-
 ## Notes for contributors
 
 Keep additions concise, clearly labeled, and beginner-friendly.

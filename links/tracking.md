@@ -21,9 +21,11 @@ Overview of animal-tracking software, showing tracking method, ability to identi
 | [idtracker.ai](https://idtracker.ai/latest/) | Background subtraction and identity learning | Yes | Yes | Torrents et al. 2026 |
 | [SLEAP](https://sleap.ai/) | Keypoint detection | Limited | Yes | Pereira et al. 2022 |
 | [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) | Keypoint detection with 3D support | Limited | Yes | Nath et al. 2019; Lauer et al. 2022 |
-| [Lightning-pose](https://www.overleaf.com/project/67cf5ab01a767d1139f0f148#cite.biderman2024lightning) | Keypoint detection with 3D support | Limited | Yes | Biderman et al. 2024 |
+| [Lightning-pose](https://lightning-pose.readthedocs.io/en/latest/index.html) | Keypoint detection with 3D support | Limited | Limited | Biderman et al. 2024 |
 | [FastTrack](https://www.fasttrack.sh/) | Centroid tracking | Limited | Limited | Gallois & Candelier 2021 |
 | [AnimalTA](http://vchiara.eu/index.php/animalta) | Centroid tracking with manual correction | Limited | Limited | Chiara & Kim 2023 |
+
+| [Tracktor](https://github.com/vivekhsridhar/tracktor) | Centroid tracking | Limited | Limited | [Sridhar et al. 2019](https://doi.org/10.1111/2041-210X.13166); [Minasandra et al. 2026, TracktorLive](https://doi.org/10.64898/2026.03.12.711471) |
 
 ## Preserving Identities
 
