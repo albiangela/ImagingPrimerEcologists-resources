@@ -1,4 +1,4 @@
-# BehavioralVideoAnalysis
+# An Imaging Primer for Ecologists — resources
 
 This repository is a **tutorial / read-more companion** for the paper
 *An Imaging Primer for Ecologists* (Francisco et al., 2026).

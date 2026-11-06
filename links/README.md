@@ -4,7 +4,7 @@ layout: default
 
 # An Imaging Primer for Ecologists — links
 
-![Last updated](https://img.shields.io/github/last-commit/albiangela/BehavioralVideoAnalysis?label=Last%20updated&style=flat)
+![Last updated](https://img.shields.io/github/last-commit/albiangela/ImagingPrimerEcologists-resources?label=Last%20updated&style=flat)
 
 Links and resources of "An Imaging Primer for Ecologists" by Francisco et al. (2026).
 Topics follow the manuscript's section structure.
