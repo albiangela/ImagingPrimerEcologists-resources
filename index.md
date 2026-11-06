@@ -6,6 +6,10 @@ title: Behavioral Video Analysis
 # An Imaging Primer for Ecologists
 Links and resources from "An Imaging Primer for Ecologists" (Francisco et al. 2026), maintained and curated by the community.
 
+**Paper:** Francisco et al. (2026). An Imaging Primer for Ecologists.
+*Methods in Ecology and Evolution*.
+[doi:10.1111/2041-210x.70448](https://doi.org/10.1111/2041-210x.70448).
+
 The sections below mirror the structure of the manuscript.
 
 <!-- --- -->
